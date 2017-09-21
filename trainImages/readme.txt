@@ -1,0 +1,1 @@
+Place the images in this folders and the name of the images with the features used for prediction in the csv file "train_data"
